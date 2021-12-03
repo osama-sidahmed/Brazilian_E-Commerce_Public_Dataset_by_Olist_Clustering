@@ -1,6 +1,6 @@
 This notebook includes my work on the data preparation and data clustering of the Brazilian E-Commerce Public Dataset by Olist version 6 dataset.
 
-Objective: Employed K-means and GMM clustering algorithms to group Brazilian online customers based on thier similarities and shared characteristics using the the Brazilian E-Commerce Public Dataset by Olist version 6 dataset.
+Objective: Employed K-means and GMM clustering algorithms to group Brazilian online customers based on thier similarities and shared characteristics using the Brazilian E-Commerce Public Dataset by Olist version 6 dataset.
 
 
 
